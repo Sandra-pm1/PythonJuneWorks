@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+#main{
+    color: yellowgreen;
+    text-align: center;
+    text-decoration: underline;
+}
+#second{
+    color: yellow;
+}
+
+.primary{
+    color: green;
+}
+.secondary{
+    color: blue;
+}

@@ -1,0 +1,42 @@
+.border{
+    border: 1px solid black;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: darkslategrey;
+}
+.header,.footer{
+    width: 30%;
+    height: 50px;
+}
+.header{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 200px;
+    background-color: coral;
+}
+.footer{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 450px;
+    padding-left: 200px;
+    background-color: bisque;
+}
+.aside,.section,.main{
+    width: 20%;
+    height: 40px;
+}
+.aside{
+    margin-right: auto;
+    background-color: brown;
+}
+.section{
+    margin-left: auto;
+    background-color: blueviolet;
+}
+.main{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkolivegreen;
+}

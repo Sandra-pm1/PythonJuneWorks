@@ -1,0 +1,51 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.spectre{ 
+    text-align: center;
+    width: 80%;
+    height: 80%;
+    background-color: black;  
+}
+.title{
+    margin-bottom: 20px;
+    color: beige;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+
+.child1{
+    width: 100px;
+    height: 150px;
+    margin-right: 15px;
+}
+
+.red{background-color: rgb(238, 133, 210);}
+.red1{background-color: rgb(176, 108, 147);}
+.red2{background-color: rgb(202, 97, 188);}
+.red3{background-color: rgb(138, 55, 117);}
+.red4{background-color: rgb(138, 53, 112);}
+.gray{background-color: gray;}
+.gray1{background-color: rgb(87, 86, 86);}
+.gray2{background-color: rgb(110, 110, 110);}
+.gray3{background-color: rgb(109, 109, 109);}
+.gray4{background-color: rgb(98, 97, 97);}
+.gray5{background-color: rgb(74, 70, 70);}
+.gray6{background-color: rgb(54, 52, 52);}
+.green{background-color: rgb(106, 231, 106);}
+.green1{background-color: rgb(106, 231, 150);}
+.green2{background-color: rgb(106, 231, 210);}
+.green3{background-color: rgb(106, 231, 300);}
+.green4{background-color: rgb(106, 231, 350);}
+.green5{background-color: rgb(106, 231, 450);}
+.green6{background-color: rgb(106, 231, 500);}
+.green7{background-color: rgb(106, 231, 570);}
+.green8{background-color: rgb(106, 231, 700);}

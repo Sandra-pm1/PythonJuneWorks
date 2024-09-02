@@ -1,0 +1,37 @@
+.border{
+    border: 1px solid black;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.parent{
+    width: 50%;
+    min-height: 450px;
+    background-color: rgba(211, 78, 193, 0.893);
+}
+.child1{
+    width: 50%;
+    height: 50px;
+    background-color: rgba(59, 59, 112, 0.984);
+}
+.child2{
+    width: 75%;
+    height: 50px;
+    background-color: rgb(49, 90, 49);
+}
+.child3{
+    width: 100vw;
+    height: 50px;
+    background-color: aqua;
+}
+.child4{
+    width: 50vw;
+    height: 50px;
+    background-color: rgb(5, 248, 139);
+}
+.child5{
+    width: 40%;
+    height: 50px;
+    background-color: rgb(189, 233, 15);
+}
